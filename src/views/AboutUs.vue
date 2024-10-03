@@ -53,7 +53,7 @@
                       <div class="card">  
                           <img src="../assets/placeholderpic.jpg" alt="Lucas" style="width:100%">
                           <div class="container">
-                              <h2>Lucas Caubergh</h2>
+                              <h2>Lucas Toirkens</h2>
                               <p class="title">outside hire</p>
                               <p>bottom text</p>
                               <p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><button class="button">Contact</button></a></p>
